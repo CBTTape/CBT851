@@ -1,0 +1,11 @@
+2023-08-06 07:57:43.730125 - Initialized conversion of CBT851
+2023-08-06 07:57:43.795202 - Received CBT.V505.FILE851.PDS from FILE851.XMI 
+2023-08-06 07:57:43.797504 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:57:43.798638 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:57:43.799644 - Found $NOTES.txt (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/$NOTES
+2023-08-06 07:57:43.800652 - Found @FILE851.txt (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/@FILE851
+2023-08-06 07:57:43.801653 - Found RMMALLOC.jcl (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/RMMALLOC
+2023-08-06 07:57:43.802595 - Found RMMDUMMY.jcl (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/RMMDUMMY
+2023-08-06 07:57:43.803536 - Found RMMEXEC.rexx (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/RMMEXEC
+2023-08-06 07:57:43.804531 - Found RMMGEN.jcl (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/RMMGEN
+2023-08-06 07:57:43.805420 - Found RMMLIST.jcl (text/plain) in CBT.V505.FILE851.PDS, moved to PDS/RMMLIST
